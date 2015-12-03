@@ -32,11 +32,8 @@
 package com.toy.anagrams.ui;
 
 import com.toy.anagrams.lib.WordLibrary;
-import java.awt.Dimension;
-import java.awt.Point;
-import java.awt.Toolkit;
-import javax.swing.JFrame;
-import javax.swing.SwingUtilities;
+import java.awt.*;
+import javax.swing.*;
 
 /**
  * Main window of the Anagram Game application.
